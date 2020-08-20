@@ -12,7 +12,7 @@ author: Ceren B. Dag
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "RESEARCH"
+  RESEARCH: "RESEARCH"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
