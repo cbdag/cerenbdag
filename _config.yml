@@ -1,31 +1,31 @@
 # --- Basic options --- #
 
 # Name of website
-title: My website
+title: Ceren B. Dag
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: PhD student in physics at the University of Michigan Ann Arbor
 
 # Your name to show in the footer
-author: Some Person
+author: Ceren B. Dag
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  About Me: "RESEARCH"
+#  Resources:
+#    - Beautiful Jekyll: "https://beautifuljekyll.com"
+#    - Learn markdown: "https://www.markdowntutorial.com/"
+#  Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+# avatar: "/assets/img/avatar-icon.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
+# round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -38,17 +38,18 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  rss: true
+  email: "cbdag@umich.edu"
+  facebook: cerenburcak
+#  github: daattali
+  twitter: lisansgunlugu
+#  rss: true
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: cerensdaydreams
+  flickr: 147223324@N06
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
@@ -58,8 +59,8 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
+  ORCID: 0000-0003-0492-1651
+  google-scholar: gAKYr8sAAAAJ
 
 # --- General options --- #
 
@@ -67,12 +68,13 @@ social-network-links:
 share-links-active:
   twitter: true
   facebook: true
-  linkedin: true
+  instagram: true
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "cerenbdag.github.io"
 
 # Create a "tags" index page and make tags on each post clickable
 link-tags: true
@@ -101,9 +103,9 @@ footer-link-col: "#404040"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-#navbar-img: "/assets/img/bgimage.png"
-#footer-img: "/assets/img/bgimage.png"
-#page-img: "/assets/img/bgimage.png"
+navbar-img: "/assets/img/32466758730_ee2bfd8d76_w.jpg"
+footer-img: "/assets/img/32466758730_ee2bfd8d76_w.jpg"
+page-img: "/assets/img/32466758730_ee2bfd8d76_w.jpg"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 #mobile-theme-col: "#0085A1"
