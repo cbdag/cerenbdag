@@ -1,15 +1,15 @@
 # --- Basic options --- #
 
----
+layout: page
 # Name of website
 title: Ceren B. Dag
 
 # Short description of your site
+
 description: condensed matter theory, AMO theory, quantum information theory
 subtitle: PhD student in physics at the University of Michigan Ann Arbor
-
-I study quantum matter driven out of equilibrium. 
-
+---
+I study quantum matter driven out of equilibrium.
 ---
 # Your name to show in the footer
 author: Ceren B. Dag
