@@ -105,7 +105,7 @@ footer-link-col: "#404040"
 
 navbar-img: "/assets/img/32466758730_ee2bfd8d76_w.jpg"
 footer-img: "/assets/img/32466758730_ee2bfd8d76_w.jpg"
-page-img: "/assets/img/32466758730_ee2bfd8d76_w.jpg"
+# page-img: "/assets/img/32466758730_ee2bfd8d76_w.jpg"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 #mobile-theme-col: "#0085A1"
