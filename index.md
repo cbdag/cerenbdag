@@ -6,7 +6,7 @@ subtitle: PhD student in physics at the University of Michigan Ann Arbor
 
 I study a range of topics at the intersection of condensed matter theory, AMO theory and quantum information science. My PhD thesis focuses on nonequilibrium quantum phenomena, such as quantum thermalization, information scrambling and dynamical phase transitions, with applications in cold atoms. Besides my PhD thesis studies, I do research in quantum thermodynamics; and recently in Quantum Hall physics and topological insulating states of graphene heterostructures in Moire superlattices.
 
-[link to my curriculum vitae.](https://github.com/cbdag/cerenbdag/blob/master/_posts/CV-03-30-2020.pdf)
+[link to my curriculum vitae.](CV-03-30-2020.pdf)
 
 ## education
 
@@ -25,12 +25,19 @@ _Thermalization and Information Scrambling in Quantum Phases_ (ongoing - expecte
 
 ## BSc. Theses
 
-_A Readout Method for a Flux Qubit-Resonator System in the Ultrastrong Coupling Regime._ 2015.
+_A Readout Method for a Flux Qubit-Resonator System in the Ultrastrong Coupling Regime._ 2015. [link to thesis]()
 
 **Advisors**: Pol Forn-Diaz (IQC); Chris Wilson (IQC).
 
-**Performed:** Institute for Quantum Computing, University of Waterloo, Canada.
+**Performed:** Institute for Quantum Computing (IQC), University of Waterloo, Canada.
 
 **Submitted to:** Electrical and Electronics School of Istanbul Technical University, Turkey.
+
+_Quantum Thermalization of Single-Mode Cavities._ 2015. [link to thesis]()
+
+**Advisors**: Ozgur Mustecaplioglu (Koc U.); A. Levent Subasi (Ist. Tech. U.).
+
+**Submitted to:** Science & Letters College of Istanbul Technical University, Turkey.
+
 
 
