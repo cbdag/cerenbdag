@@ -25,7 +25,7 @@ _Thermalization and Information Scrambling in Quantum Phases_ (ongoing - expecte
 
 ## BSc. Theses
 
-_A Readout Method for a Flux Qubit-Resonator System in the Ultrastrong Coupling Regime._ 2015. [link to thesis]()
+* _A Readout Method for a Flux Qubit-Resonator System in the Ultrastrong Coupling Regime._ 2015. [link to thesis]()
 
 **Advisors**: Pol Forn-Diaz (IQC); Chris Wilson (IQC).
 
@@ -33,7 +33,7 @@ _A Readout Method for a Flux Qubit-Resonator System in the Ultrastrong Coupling 
 
 **Submitted to:** Electrical and Electronics School of Istanbul Technical University, Turkey.
 
-_Quantum Thermalization of Single-Mode Cavities._ 2015. [link to thesis]()
+* _Quantum Thermalization of Single-Mode Cavities._ 2015. [link to thesis]()
 
 **Advisors**: Ozgur Mustecaplioglu (Koc U.); A. Levent Subasi (Ist. Tech. U.).
 
