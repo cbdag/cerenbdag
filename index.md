@@ -4,6 +4,10 @@ title: Ceren B. Dag
 subtitle: PhD student in physics at the University of Michigan Ann Arbor
 ---
 
+I study a range of topics at the intersection of condensed matter theory, AMO theory and quantum information science. My PhD thesis focuses on nonequilibrium quantum phenomena, such as quantum thermalization, information scrambling and dynamical phase transitions, with applications in cold atoms. Besides my PhD thesis studies, I do research in quantum thermodynamics; and recently in Quantum Hall physics and topological insulating states of graphene heterostructures in Moire superlattices.
+
+[link to my curriculum vitae.](/_posts/CV-03-30-2020.pdf)
+
 ## education
 
 _Istanbul Technical University_, Turkey.
