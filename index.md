@@ -19,7 +19,18 @@ _University of Waterloo_, Canada.
 
 ## Ph.D. Thesis
 
-_Thermalization and Information Scrambling in Quantum Phases_ (ongoing)
+_Thermalization and Information Scrambling in Quantum Phases_ (ongoing - expected 2021)
+
 **Advisors**: Kai Sun (U. of Michigan, Physics Dept.); Luming Duan (Tsinghua University, Cent. for Quantum Information).
+
+## BSc. Theses
+
+_A Readout Method for a Flux Qubit-Resonator System in the Ultrastrong Coupling Regime._ 2015.
+
+**Advisors**: Pol Forn-Diaz (IQC); Chris Wilson (IQC).
+
+**Performed:** Institute for Quantum Computing, University of Waterloo, Canada.
+
+**Submitted to:** Electrical and Electronics School of Istanbul Technical University, Turkey.
 
 
