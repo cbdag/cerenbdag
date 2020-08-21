@@ -37,7 +37,7 @@ _Thermalization and Information Scrambling in Quantum Phases_ (ongoing - expecte
 
 **Submitted to:** Electrical and Electronics School of Istanbul Technical University, Turkey.
 
-* _Quantum Thermalization of Single-Mode Cavities._ 2015. [link to thesis](thesis.pdf)
+* _Quantum Thermalization of Single-Mode Cavities._ 2015. [link to thesis](thesis.pdf) **Note:** An up-to-date version of this thesis is published [here](https://www.mdpi.com/1099-4300/18/7/244)
 
 **Advisors**: Ozgur Mustecaplioglu (Koc U.); A. Levent Subasi (Ist. Tech. U.).
 
