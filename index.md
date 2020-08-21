@@ -8,6 +8,10 @@ I study a range of topics at the intersection of condensed matter theory, AMO th
 
 [link to my curriculum vitae.](CV-03-30-2020.pdf)
 
+**Contact**: cbdag [at] umich [dot] edu
+
+[link to my google scholar for a publication and preprint list.](https://scholar.google.com/citations?hl=en&user=gAKYr8sAAAAJ)
+
 ## education
 
 _Istanbul Technical University_, Turkey.
